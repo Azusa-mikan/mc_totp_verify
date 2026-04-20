@@ -1,0 +1,15 @@
+{
+    "id": "mc_totp_verify",
+    "version": "1.0.0",
+    "name": "Minecraft TOTP Verify",
+    "description": {
+        "en_us": "Verify OTP after players join the game",
+        "zh_cn": "在玩家加入游戏后验证OTP"
+    },
+    "author": "Azusa_mikan",
+    "link": "https://github.com/Azusa-mikan/mc_totp_verify",
+    "dependencies": {
+        "mcdreforged": ">=2.15"
+    },
+    "resources": ["lang"]
+}
