@@ -5,5 +5,8 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
+    "cryptography>=46.0.7",
     "mcdreforged>=2.15.7",
+    "pydantic>=2.13.2",
+    "pyotp>=2.9.0",
 ]
